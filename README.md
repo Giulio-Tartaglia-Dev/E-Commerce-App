@@ -3,7 +3,7 @@
 Un'interfaccia web moderna e reattiva progettata per un marketplace di componenti hardware. Il progetto si focalizza sulla democratizzazione dell'accesso all'hardware PC attraverso un'esperienza utente pulita e professionale.
 
 ## 🚀 Live Demo
-Visualizza il progetto dal vivo: [TechWorldBuild Demo](https://vuoto-rgb.github.io/Meteo-App/) *(Sostituisci con il link corretto una volta caricato)*
+Visualizza il progetto dal vivo: [TechWorldBuild Demo](https://vuoto-rgb.github.io/E-Commerce-App/) *(Sostituisci con il link corretto una volta caricato)*
 
 ## 🛠️ Caratteristiche Tecniche
 * **Architettura Modulare**: Il codice è organizzato in directory separate (`Home`, `About`, `Products`) per massimizzare la manutenibilità e la scalabilità del software.
